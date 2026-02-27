@@ -1,0 +1,8 @@
+python-dotenv
+ipykernel
+rich 
+langchain_core
+langgraph
+pydantic
+langchain
+langchain-openai
