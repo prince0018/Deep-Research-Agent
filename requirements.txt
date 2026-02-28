@@ -6,3 +6,4 @@ langgraph
 pydantic
 langchain
 langchain-openai
+tavily
